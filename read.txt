@@ -1,0 +1,94 @@
+<h1>Suleiman Jibril-Ahmed</h1>
+
+<img
+  src="assests/IMG_2758.jpeg"
+  alt="a photo of Suleiman Jibril-Ahmed"
+  height="200"
+  class="profile-img"
+/>
+<hr />
+<h2>Professional Statement</h2>
+<p>
+  Dynamic 3rd year Computing Science student seeking a summer 2024 software
+  development coop. Armed with robust critical thinking and analytical skills, I
+  offer proficiency in JAVA, JavaScript, HTML, CSS, and more. Agile-minded and
+  adept in android app development, I bring proactive learning and strong
+  communication skills to thrive in fast-paced environments.
+</p>
+<hr />
+<h2>Technical Projects</h2>
+<ul>
+  <li>
+    E-Commerce Website
+    <p>
+      Independently developed an E-Commerce website using HTML, CSS, jQuery, and
+      PHP.
+    </p>
+  </li>
+
+  <li>
+    Travel Website
+    <p>
+      Independently built a modern travel website using React.js, Next.js 13,
+      and Tailwind CSS
+    </p>
+  </li>
+
+  <li>
+    Tic-Tac-Toe Game
+    <p>
+      Independently created a tic-tac-toe game using C programming language.
+    </p>
+  </li>
+
+  <li>Android E-Commerce App</li>
+  <p>Independently built an E-commerce application using XML and JAVA.</p>
+
+  <li>
+    UI/UX design for Fitness app
+    <p>
+      Worked in a team of 3 people to build the user interface for a fitness app
+      using figma.
+    </p>
+  </li>
+</ul>
+
+<hr />
+<h2>Skills and Competencies</h2>
+<ul>
+  <li>
+    Strong critical thinking and analytical skills developed through coding
+    experience.
+  </li>
+  <li>
+    Proficient in JAVA, JavaScript, HTML, CSS, jQuery, REACT, Tailwind CSS,
+    Node.js 13, PHP, XML, Python, and ORACLE SQL.
+  </li>
+  <li>
+    Good understanding of data structures, algorithms, and agile development
+    principles.
+  </li>
+  <li>Experience with JSON API.</li>
+  <li>Experience building user interface for mobile and web applications.</li>
+  <li>
+    Experience in android app development and working with Kali Linux, Windows,
+    and MacOS.
+  </li>
+  <li>
+    Self-motivated learner with a commitment to continuous skill enhancement.
+  </li>
+  <li>
+    Excellent verbal and written communication skills from customer service
+    roles and academic writing.
+  </li>
+  <li>Able to work effectively under pressure in a fast-paced environment.</li>
+</ul>
+<hr />
+<h2>Education</h2>
+<p>Bachelor's of Computing Science - Thompson Rivers University(2021-2025)</p>
+<hr />
+<h2>Other</h2>
+<ul>
+  <li><a href="hobbies.html">My hobbies</a></li>
+  <li><a href="contact.html">Contact me</a></li>
+</ul>
